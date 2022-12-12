@@ -1,0 +1,52 @@
+.containerLogin {
+	margin-top: 9%;
+	/* margin-left: 4%; */
+}
+@media only screen and (max-width: 416px) {
+	.containerLogin	{
+		margin-top: 20%;
+	
+	}
+}
+.arrowSignUp {
+	vertical-align: -5px !important;
+}
+.logo_auth_page {
+	width: 140px;
+	height: 40px;
+	cursor: pointer;
+}
+.logo_login{
+	width: 54px;
+	height: 40px;
+    margin-top: -8px;
+}
+.logo_footer{
+	/* margin-left: 139px !important; */
+	margin-top:31px !important;
+	width: 101px;
+	height: 73px;
+}
+.loginbtn{
+	margin-top: 32px;
+}
+.partner_background{
+	background-color: #161b28;
+	padding-bottom: 5.6rem;
+}
+.link_background{
+	background-color: #161b28;
+	padding-bottom: 22.5rem;
+}
+.verification_background{
+	background-color: #161b28;
+	padding-bottom: 21.66rem;
+}
+.forgot_background{
+	background-color: #161b28;
+	padding-bottom: 15.6rem;
+}
+.reset_background{
+	background-color: #161b28;
+	padding-bottom: 16.4rem;
+}

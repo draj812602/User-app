@@ -1,0 +1,14 @@
+.statusImage {
+	width: 168px !important;
+	height: 168px;
+}
+.dash {
+	height: 4px;
+	max-width: 54px !important;
+	background-color: #c7c7c7;
+}
+.dash-after {
+	height: 4px;
+	max-width: 54px !important;
+	background-color: #C8EDEB;
+}
